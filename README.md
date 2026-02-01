@@ -19,15 +19,6 @@
   </a>
 </p>
 
-<br>
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zLestDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLestDev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br>
-
 <div>
   <a href="https://arinformatica.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/Website-AR_Informática-ff0000?style=for-the-badge&logo=googlechrome&logoColor=white">
