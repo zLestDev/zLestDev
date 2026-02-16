@@ -37,5 +37,6 @@
   </a>
 </div>
 
+![snake animation](https://github.com/zLestDev/zLestDev/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
