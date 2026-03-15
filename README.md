@@ -2,12 +2,12 @@
 
 # 👋 Olá, sou Alisson Ryan!
 
-### Designer & Developer | Founder da AR Soluções Para Minecraft
+### Web Designer & Developer | Founder da ARStore / AR Soluções Para Minecraft
 
 <p>
-  Focado em desenvolvimento de <strong>Plugins para Minecraft (Paper/Spigot)</strong>, 
+  Focado em Web Designer e Desenvolvimento de <strong>Plugins para Minecraft (Paper/Spigot)</strong>, 
   automação e desenvolvimento web. <br>
-  Criador de soluções como <i>ARSellChest</i>, <i>ARinBorderTP</i> e <i>ARBlockProtection</i> <i>ARElevator</i> <i>ARBackpack</i>...
+  Criador de soluções como <i>Mapin (Localizador de propriedades rurais cadastradas integrado com whatsapp)</i>, <i>ARMineStore (Loja de plugins de Minecraft)</i> e <i>Automações em geral</i>...
 </p>
 
 <br>
@@ -32,7 +32,7 @@
   <a href="https://www.twitch.tv/iLestZ" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
   </a>
-  <a href="mailto:alisson_sh2121@hotmail.com">
+  <a href="mailto:alissonryanz@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
